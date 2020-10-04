@@ -1,0 +1,1 @@
+<view class="book"><view class="more-book"><block wx:for="{{images}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['gotoDetali',['$0'],[[['images','',index,'name']]]]]]]}}" class="books" bindtap="__e"><image class="books-item" src="{{item.img}}"></image><view class="bookimage-text">{{item.name}}</view></view></block></view></view>

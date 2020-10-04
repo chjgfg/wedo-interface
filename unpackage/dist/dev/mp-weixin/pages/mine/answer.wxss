@@ -1,0 +1,25 @@
+
+.answer {
+	width: 94%;
+	margin-left: 3%;
+}
+.title {
+	margin-top: 3%;
+	font-size: 36rpx;
+	font-weight: 700;
+}
+.context {
+	margin-top: 3%;
+	font-size: 30rpx;
+}
+.footer{
+	margin-top: 3%;
+	width: 100%;
+	text-align: center;
+	font-size: 26rpx;
+	color: #AAAAAA;
+}
+.footer>.color{
+	color: #FF0000;
+}
+

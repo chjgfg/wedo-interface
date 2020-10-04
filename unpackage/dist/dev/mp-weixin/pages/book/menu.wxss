@@ -1,0 +1,29 @@
+
+.heard {
+	width: 100%;
+	position: fixed;
+	height: 50rpx;
+}
+.heard-ch {
+	background-color: #AAAAAA;
+	/* margin-top: -3%; */
+	height: 100%;
+	font-size: 20rpx;
+}
+.body,
+.heard-ch1 {
+	width: 94%;
+	margin-left: 3%;
+}
+.body {
+	padding-top: 5%;
+}
+.page-first {
+	margin-left: 76%;
+}
+.chapter {
+	margin-top: 5%;
+	border-bottom: 1rpx solid #AAAAAA;
+	height: 60rpx;
+}
+

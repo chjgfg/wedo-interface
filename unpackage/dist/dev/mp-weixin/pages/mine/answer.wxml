@@ -1,0 +1,1 @@
+<view class="answer"><view class="title">{{''+item.question+''}}</view><view class="context">{{''+item.answer+''}}</view><view class="footer"><text>问题没解决?</text><text></text><text data-event-opts="{{[['tap',[['goToFab',['$event']]]]]}}" class="color" bindtap="__e">去反馈</text></view></view>

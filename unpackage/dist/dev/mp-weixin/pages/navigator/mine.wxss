@@ -1,0 +1,108 @@
+
+.notice {
+	/* 		width: 100rpx;
+	height: 100rpx; */
+	font-size: 50rpx;
+	text-align: center;
+	line-height: 50rpx;
+	margin-left: 90%;
+	font-weight: 500;
+}
+.heard-ch1 {
+	margin-top: 3%;
+	width: 94%;
+	margin-left: 3%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.user-name {
+	font-size: 33rpx;
+	font-weight: 700;
+}
+.user-detils {
+	font-size: 26rpx;
+	color: #333333;
+	margin-left: 8%;
+	font-weight: 600;
+}
+.user-read-time,
+.pround {
+	margin-top: 5%;
+	color: #AAAAAA;
+	font-size: 23rpx;
+}
+.user-images {
+	background-image: url(/static/bookimages/0.png);
+	width: 100rpx;
+	height: 100rpx;
+	-webkit-border-radius: 2em;
+	        border-radius: 2em;
+}
+.heard-three {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	width: 100%;
+	margin-top: 5%;
+}
+.my-book,
+.my-think,
+.my-booklist {
+	text-align: center;
+	width: 33.3%;
+	/* border-right: 2rpx solid #888888; */
+	font-size: 36rpx;
+	font-weight: 900;
+}
+.text {
+	font-size: 15rpx;
+	color: #AAAAAA;
+}
+.body,
+.footer {
+	margin-top: 10%;
+	width: 94%;
+	margin-left: 3%;
+}
+.body {
+	height: 150rpx;
+	margin-bottom: 10%;
+}
+.free,
+.sign,
+.set,
+.help,
+.log {
+	font-size: 30rpx;
+	height: 60rpx;
+}
+.free,
+.sign,
+.set,
+.help {
+	border-bottom: 2rpx solid #AAAAAA;
+}
+.sign,
+.help,
+.set,
+.log {
+	margin-top: 2%;
+}
+.free>.right {
+	margin-left: 70%;
+}
+.sign>.right {
+	margin-left: 68.5%;
+}
+.set>.right {
+	margin-left: 78%;
+}
+.help>.right {
+	margin-left: 63.5%;
+}
+
