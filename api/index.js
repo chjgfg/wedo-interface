@@ -1,7 +1,11 @@
 import request from './request.js';
 const url = 'http://api.weido.top/api';
 
+<<<<<<< HEAD
 /* 获取所有分类  */
+=======
+/* 获取所有分类 */
+>>>>>>> 2ce4292b66c028087e0345f66b4c86fdd1840ec2
 export const CategoryList = () => request(`${url}/book/category/list`);
 
 /* 根据分类id查询图书信息 */
