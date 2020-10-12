@@ -1,0 +1,132 @@
+
+.heard {
+	width: 100rpx;
+	height: 100rpx;
+}
+.people-pricture {
+	-webkit-border-radius: 2em;
+	        border-radius: 2em;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	width: 700rpx;
+	height: 1000rpx;
+}
+.body {
+	width: 90%;
+	margin-left: 5%;
+	border-bottom: 1rpx solid #AAAAAA;
+	padding-bottom: 5%;
+}
+.body-ch1-ch1 {
+	font-size: 36rpx;
+	font-weight: 900;
+}
+.body-ch1-ch2 {
+	font-size: 20rpx;
+	color: #FF0000;
+	margin-left: 5%;
+	border: 2rpx solid #FF0000;
+	-webkit-border-radius: 0.5em;
+	        border-radius: 0.5em;
+}
+.body-ch2 {
+	margin-top: 3%;
+}
+.body-ch2-ch1 {
+	font-size: 30rpx;
+}
+.body-ch3 {
+	height: 50rpx;
+	margin-top: 4%;
+}
+.body-ch3-ch {
+	width: 50%;
+	font-size: 25rpx;
+	display: inline-block;
+}
+.body-ch3-ch1,
+.body-ch3-ch2 {
+	border-right: 1rpx solid #AAAAAA;
+}
+.body-ch3-ch1,
+.body-ch3-ch2,
+.body-ch3-ch3 {
+	text-align: center;
+	width: 33.3%;
+	padding-right: 5%;
+	font-size: 33rpx;
+}
+.body-ch3-ch2,
+.body-ch3-ch3 {
+	margin-left: 5%;
+}
+.footer {
+	margin-top: 6%;
+	width: 90%;
+	margin-left: 5%;
+}
+.footer-ch1-ch1-ch1 {
+	font-size: 36rpx;
+	font-weight: 700;
+}
+.footer-ch1-ch1-ch2,
+.footer-ch1-ch1-ch3 {
+	font-size: 30rpx;
+}
+.footer-ch1-ch1-ch2 {
+	margin-left: 3%;
+}
+.footer-ch1-ch1-ch3 {
+	margin-left: 15%;
+}
+.scroll-Y {
+	white-space: nowrap;
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+.scroll-view-item {
+	width: 70%;
+	display: inline-block;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	border: 1rpx solid #AAAAAA;
+	margin-left: 10%;
+	-webkit-border-radius: 0.5em;
+	        border-radius: 0.5em;
+}
+.scroll-view-item-ch {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	width: 80%;
+	margin-left: 5%;
+	height: 220rpx;
+	margin-top: 30rpx;
+}
+.scroll-view-item-ch2 {
+	margin-left: 10%;
+}
+.book-detail {
+	width: 150rpx;
+	height: 200rpx;
+}
+.book-name {
+	width: 250rpx;
+	white-space: normal;
+}
+.book-people {
+	margin-top: 10%;
+	font-size: 20rpx;
+}
+.book-cricule {
+	font-size: 20rpx;
+	margin-top: 20%;
+	color: #0081FF;
+}
+

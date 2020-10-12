@@ -1,0 +1,85 @@
+
+.heard {
+	margin-top: 5%;
+	height: 300rpx;
+	border: 1rpx solid #AAAAAA;
+	-webkit-box-shadow: 1rpx 5rpx 10rpx #CCCCCC;
+	        box-shadow: 1rpx 5rpx 10rpx #CCCCCC;
+	-webkit-border-radius: 0.5em;
+	        border-radius: 0.5em;
+}
+.evaluate {
+	width: 94%;
+	margin-left: 3%;
+}
+.evaluate-ch1-ch {
+	margin: 3%;
+}
+.evaluate-ch1-ch1-picture {
+	width: 100rpx;
+	height: 100rpx;
+	-webkit-border-radius: 5em;
+	        border-radius: 5em;
+	vertical-align: middle;
+	/* 将图片和字垂直居中 */
+}
+.evaluate-ch1-ch1-name {
+	margin-left: 3%;
+	margin-top: -100%;
+}
+.evaluate-ch1-ch2,
+.evaluate-ch1-ch3 {
+	margin-top: 5%;
+}
+.cuIcon-comment {
+	margin-left: 5%;
+}
+.body {
+	margin-top: 5%;
+}
+.three {
+	background-color: #FFFFFF;
+	-webkit-box-shadow: 1rpx 5rpx 10rpx #CCCCCC;
+	        box-shadow: 1rpx 5rpx 10rpx #CCCCCC;
+	height: 1000rpx;
+	padding-top: 5%;
+	padding-left: 4%;
+}
+.second {
+	margin-left: 5%;
+}
+.input {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 100rpx;
+	/* margin-bottom: 20rpx; */
+	background-color: #C0C0C0;
+	margin-left: -3%;
+}
+.input-ch1 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 2.5%;
+}
+.input-ch1-ch1 {
+	border: 1rpx solid #AAAAAA;
+	margin-left: 5%;
+	-webkit-border-radius: 0.3em;
+	        border-radius: 0.3em;
+	background-color: #FFFFFF;
+}
+.btn {
+	color: #333333;
+}
+.eeee{
+	margin-left: 2%;
+}
+

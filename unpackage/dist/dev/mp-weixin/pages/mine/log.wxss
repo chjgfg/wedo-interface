@@ -1,0 +1,74 @@
+
+.log {
+	width: 94%;
+	margin-left: 3%;
+}
+.heard {
+	margin-top: 30%;
+}
+.heard-ch1,
+.heard-ch2 {
+	width: 80%;
+	margin-left: 10%;
+}
+.heard-ch2 {
+	display: none;
+}
+.heard-ch1-ch1 {
+	height: 60rpx;
+	border-bottom: 1rpx solid #dddddd;
+}
+.heard-ch1-ch2 {
+	border-bottom: 1rpx solid #dddddd;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	height: 100rpx;
+}
+.input {
+	width: 70%;
+	margin-top: 5%;
+	line-height: 100rpx;
+}
+.text {
+	width: 30%;
+	margin-top: 5%;
+	height: 40rpx;
+}
+.btn {
+	margin-top: 10%;
+	height: 220rpx;
+}
+.btn-ch1 {
+	height: 90rpx;
+}
+.btn-ch1-ch1 {
+	height: 90rpx;
+	-webkit-border-radius: 0.5em;
+	        border-radius: 0.5em;
+}
+.red {
+	color: #FF0000;
+}
+.msg {
+	width: 100%;
+}
+.msg-ch1 {
+	font-size: 26rpx;
+	color: #0081FF;
+	text-align: center;
+}
+.password {
+	width: 100%;
+}
+.ok {
+	display: block;
+}
+.no {
+	display: none;
+}
+

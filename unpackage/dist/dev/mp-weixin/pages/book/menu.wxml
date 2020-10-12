@@ -1,0 +1,1 @@
+<view class="menu"><view class="body"><block wx:for="{{newChapters}}" wx:for-item="item" wx:for-index="index"><view data-event-opts="{{[['tap',[['goToChapter',['$0'],[[['newChapters','',index]]]]]]]}}" class="chapter" bindtap="__e">{{''+item+''}}</view></block></view></view>

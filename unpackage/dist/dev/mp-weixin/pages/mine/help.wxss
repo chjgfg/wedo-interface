@@ -1,0 +1,30 @@
+
+.help {
+	width: 94%;
+	margin-left: 3%;
+}
+.heard {
+	margin-top: 5%;
+	margin-bottom: 3%;
+	font-size: 36rpx;
+	font-weight: 700;
+}
+.questions-ch {
+	height: 80rpx;
+	width: 98%;
+	border-bottom: 1rpx solid #CCCCCC;
+}
+.question {
+	font-size: 30rpx;
+	line-height: 80rpx;
+}
+.tofab {
+	margin-top: 5%;
+	height: 80rpx;
+}
+.tofab>view {
+	font-size: 36rpx;
+	text-align: center;
+	color: #0081FF;
+}
+
